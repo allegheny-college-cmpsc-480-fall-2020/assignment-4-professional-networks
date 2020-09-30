@@ -7,7 +7,7 @@
 ### Networks
 
 * [LinkedIn Profile Checklist for University Students](https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn%20Profile%20Checklist%20-%20College%20Students.pdf)
-* [Stack Overflow Developer Survey (2020)[https://insights.stackoverflow.com/survey/2020#employment]
+* [Stack Overflow Developer Survey (2020)][https://insights.stackoverflow.com/survey/2020#employment]
   * The above link jumps to the "Employment" section, but the whole thing is worth a read
 * [GatorConnect](https://sites.allegheny.edu/gatorconnect/)
 
